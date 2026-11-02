@@ -1,4 +1,4 @@
-Face Detection Using Haar Cascade and MTCNN
+### Face Detection Using Haar Cascade and MTCNN
 
 Overview
 
@@ -24,7 +24,7 @@ tqdm
 
 Detection Methods
 
-1. Haar Cascade
+### Haar Cascade
 
 Traditional machine learning-based face detection.
 
@@ -32,7 +32,7 @@ Uses a pre-trained XML classifier.
 
 Detects faces using detectMultiScale().
 
-2. MTCNN
+### MTCNN
 
 Deep-learning-based face detection.
 
@@ -40,7 +40,7 @@ Uses three networks: P-Net, R-Net, and O-Net.
 
 Detects faces, refines bounding boxes, and identifies five facial landmarks.
 
-Project Workflow
+### Project Workflow
 
 Load and organize facial image datasets.
 
